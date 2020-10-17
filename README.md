@@ -1,1 +1,2 @@
-# crgame
+# synchronousBallMovement
+Ball moving synchronously
